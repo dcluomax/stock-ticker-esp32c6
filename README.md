@@ -1,5 +1,12 @@
 # 📈 Desk Stock Ticker (ESP32-C6)
 
+[![Release](https://img.shields.io/github/v/release/dcluomax/stock-ticker-esp32c6?color=2ea44f)](https://github.com/dcluomax/stock-ticker-esp32c6/releases)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+[![Platform: ESP32-C6](https://img.shields.io/badge/platform-ESP32--C6-blue)](https://www.espressif.com/en/products/socs/esp32-c6)
+[![MicroPython](https://img.shields.io/badge/MicroPython-1.28-darkgreen)](https://micropython.org/)
+[![Wiki](https://img.shields.io/badge/docs-wiki-purple)](https://github.com/dcluomax/stock-ticker-esp32c6/wiki)
+[![Stars](https://img.shields.io/github/stars/dcluomax/stock-ticker-esp32c6?style=social)](https://github.com/dcluomax/stock-ticker-esp32c6/stargazers)
+
 A tiny Wi-Fi desk gadget that shows live stock prices on a bright color LCD.
 It rotates through your favorite tickers, shows the day's change and an
 intraday trend chart, and even tracks **pre-market / after-hours** prices.
@@ -9,6 +16,9 @@ Finance (no API key needed). Everything is configured from a simple web page
 on your phone.
 
 ![ticker](docs/preview.jpg)
+
+> 📸 *Tip: replace `docs/preview.jpg` with a real photo of your device on a desk —
+> it dramatically boosts interest. See [docs/README](docs/) for the size.*
 
 ---
 
