@@ -78,7 +78,7 @@ AP_PASSWORD = "ticker123"          # >=8 chars; change if you like
 
 DEFAULT_CONFIG = {
     "wifi": {"ssid": "", "password": ""},
-    "tickers": ["AAPL", "MSFT", "NVDA", "TSLA", "SPY"],
+    "tickers": ["MSFT", "GME", "VCX", "GOOGL"],
     "rotate_delay": 5,
     "refresh_interval": 60,      # seconds between refreshes while market is open
     "closed_interval": 600,      # slower refresh while market is closed

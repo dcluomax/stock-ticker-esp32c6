@@ -3,7 +3,7 @@
     "ssid": "",
     "password": ""
   },
-  "tickers": ["AAPL", "MSFT", "NVDA", "TSLA", "SPY"],
+  "tickers": ["MSFT", "GME", "VCX", "GOOGL"],
   "rotate_delay": 5,
   "refresh_interval": 60,
   "closed_interval": 600,
