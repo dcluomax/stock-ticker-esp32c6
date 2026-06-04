@@ -1,0 +1,14 @@
+# Python tooling / virtualenv
+.venv/
+__pycache__/
+*.pyc
+
+# Session / planning artifacts
+plan.md
+
+# Local config backups pulled off the board
+config.local.json
+config.backup.json
+
+# OS cruft
+.DS_Store

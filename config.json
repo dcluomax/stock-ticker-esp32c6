@@ -1,0 +1,17 @@
+{
+  "wifi": {
+    "ssid": "",
+    "password": ""
+  },
+  "tickers": ["AAPL", "MSFT", "NVDA", "TSLA", "SPY"],
+  "rotate_delay": 5,
+  "refresh_interval": 60,
+  "closed_interval": 600,
+  "brightness": 100,
+  "dim_timeout": 300,
+  "dim_brightness": 20,
+  "rotation": 1,
+  "title": "STOCK TICKER",
+  "subtitle": "",
+  "splash_secs": 3
+}
